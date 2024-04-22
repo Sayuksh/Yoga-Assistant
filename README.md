@@ -35,6 +35,4 @@ It guides the user to perform an Asana correctly in the right posture through an
 </h1>    
 
 # Tech Stack Used
-## Back-End
-
 Python, Open CV, Mediapipe.
