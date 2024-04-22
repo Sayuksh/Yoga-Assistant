@@ -30,8 +30,9 @@ It guides the user to perform an Asana correctly in the right posture through an
 🌟Increase consistency because of the rewarding nature of the app <br>
 🌟It could be used to build some Yoga learning zones<be>
 
-
+<h1 align="center">
 ![Screenshot](yoga%20pose.png)
+</h1>    
 
 # Tech Stack Used
 ## Back-End
