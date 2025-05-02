@@ -9,26 +9,46 @@ AI Yoga Assistant
 
 ## Yoga
 
-<b>Yoga </b> is a great form of exercise and has benefits like improving flexibility and strength, reducing stress and anxiety. Research has also found that yoga can help improve metabolism, heart rate and respiration. Good posture should keep your body aligned. But due to lack of knowledge about correct posture of yoga people suffer from acute pain and long-standing chronic problems, say doctors. 
-So we built an app which can assist and guide a user properly and correctly while he/she is performing a particular Yoga Asana through an AI assistant. 
-It guides the user to perform an Asana correctly in the right posture through an AI voice assistant and shows the accurate data of a user for the Asana he/she will be doing in the form of graphs and charts.
+<b>Yoga </b>  offers benefits like improved flexibility, strength, and reduced stress, but incorrect posture can lead to pain or long-term issues. Our AI-powered app guides users in real-time with a voice assistant, ensuring correct posture and tracking performance through clear graphs and charts.
 
-## Features
+# 🧘 AI-Powered Yoga Assistant
 
-🧘It will guide the user to perform an Asana correctly in the right posture through an AI voice assistant through webcam live. <br>
-🧘 A counter will also be provided to check for how long a user can hold a specific pose.<br>
-🧘 On the basis of the counter time the user will be rewarded with daily coins.<br>
-🧘 Keep a track of time a user invests to the app  and will provide proper representable charts for the same.<br>
-🧘Shows the accuracy data of a user for the Asana he/she will be doing in the form of graphs and charts.<br>
-🧘It will have an fascinating interface which will inspire people to be consistent with this activity.<br>
-🧘For the future scope, user will be able to invite his/her friends for some cool yoga battles. <br>
+An intelligent yoga companion that guides users to perform Asanas correctly using real-time AI feedback via webcam, while tracking progress and boosting consistency through rewards and analytics.
 
+## 🔑 Features
 
-## Uses
+- 🎙️ **AI Voice Assistant + Webcam Integration**  
+  Provides real-time guidance to help users maintain the correct posture during each Asana.
 
-🌟Can be used by people who live alone and don’t want to compromise their health <br>
-🌟Increase consistency because of the rewarding nature of the app <br>
-🌟It could be used to build some Yoga learning zones<be>
+- ⏱️ **Pose Hold Timer**  
+  Tracks how long a user holds a pose to evaluate endurance and performance.
+
+- 💰 **Reward System**  
+  Users earn daily coins based on the time spent and consistency in practice.
+
+- 📊 **Time Tracking & Progress Charts**  
+  Monitors overall usage and visualizes progress with representable charts.
+
+- 📈 **Asana Accuracy Analytics**  
+  Shows detailed performance data through live graphs and statistics.
+
+- 🎨 **Motivating User Interface**  
+  A visually engaging interface that encourages daily practice.
+
+- 🤝 **Future Scope: Social Yoga Battles**  
+  Users will be able to invite friends for fun and interactive yoga challenges.
+
+## 🚀 Use Cases
+
+- 🏠 **Solo Practitioners**  
+  Ideal for individuals who practice yoga alone and want guided support.
+
+- 🔁 **Consistency Boost**  
+  The reward system encourages users to maintain a regular routine.
+
+- 🧘‍♂️ **Community Building**  
+  Potential to evolve into yoga learning zones and social wellness hubs.
+
 
 <h1 align="center">
 <img src =yoga%20pose.png>
